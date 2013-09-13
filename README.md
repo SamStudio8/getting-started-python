@@ -4,6 +4,5 @@ getting-started-python
 Python sample application for wercker leveraging the Flask
 microframework
 
-[![Wercker
-status](https://app.wercker.com/status/b312ecb5c6fdd7c6eb871455a5b8964e/m)](https://app.wercker.com/project/bykey/b312ecb5c6fdd7c6eb871455a5b8964e)
+[![wercker status](https://app.wercker.com/status/fe6c05ab4a4d16f3fd6d531ef4ab02b6/m "wercker status")](https://app.wercker.com/project/bykey/fe6c05ab4a4d16f3fd6d531ef4ab02b6)
                       
